@@ -3,8 +3,6 @@ Aplikasi web sederhana untuk mendeteksi objek dalam gambar (Pesawat, Mobil, Buru
 ## Struktur File
 main.py : Backend API menggunakan FastAPI.
 
-index.html : Tampilan antarmuka (User Interface).
-
 Dockerfile : Konfigurasi container Docker.
 
 model.keras : Model AI yang sudah dilatih.
